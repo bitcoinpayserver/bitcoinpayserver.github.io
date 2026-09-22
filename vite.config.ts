@@ -4,5 +4,5 @@ import { defineConfig } from 'vite'
 // https://vite.dev/config/
 export default defineConfig({
     plugins: [svelte()],
-    base: "/bitcoinpayserver.github.io/"
+    base: 'https://bitcoinpayserver.github.io'
 })
